@@ -1,2 +1,2 @@
-# eventsapp
-devops learning
+# eventsappstart
+This is a simple events app
